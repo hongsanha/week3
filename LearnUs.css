@@ -1,0 +1,100 @@
+footer {
+    background-color:black;
+    color:white;
+    font-size:15px;
+    text-align:center;
+    width : 1000px;
+    height: 50px;
+
+
+}
+.head {
+    background-color:royalblue;
+    width: 950px;
+    text-align:right;
+    padding-right:50px;
+}
+
+.head2 {
+    background-color:darkblue;
+    width: 940px;
+    height: 50px;
+    display:flex;
+    justify-content:space-between;
+    padding-left:30px;
+    padding-right:30px;
+    align-items:center;
+}
+
+.head2-LearnUs {
+    color: white;
+    font-size: 20px;
+}
+
+.head2-etc {
+    color:white;
+    font-size: 15px;    
+}
+
+.head3 {
+    display:flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    justify-content:space-around;
+    background-color:rgb(213, 211, 211);
+    width:700px;
+}
+
+.head3-main {
+    font-size: 17px;
+    font-weight:bold;
+}
+
+.head3-list {
+    line-height:30px;
+}
+
+.search-box {
+    background-color:gold;
+    width: 700px;
+    display:flex;
+    align-items:center;
+    height: 70px;
+    justify-content:space-around;
+    margin-left:150px;
+}
+
+.searchbox-search {
+    font-size:15px;
+}
+.head4 {
+    display:flex;
+    justify-content:space-between;
+    width:700px;
+    padding-right:150px;
+    padding-left:150px;
+}
+.head4-1{
+    margin-left:150px;
+    font-size:17px;
+    font-weight:bold;
+}
+.popular {
+    display:flex;
+    flex-direction:column;
+    width:200px;
+}
+
+.head4-2 {
+    height:100px;
+    padding-top:10px;
+    width:150px;
+
+}
+
+.head4-3 {
+    height:80px;
+    background-color:darkgray;
+    padding-top:10px;
+    width:150px;
+}
